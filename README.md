@@ -1,1 +1,2 @@
-This repository demonstrates branching, feature development, and conflict resolution.
+This is the description of my repo
+Modification in main branch.
